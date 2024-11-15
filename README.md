@@ -1,2 +1,2 @@
 # python_Code
-python学习记录
+本人编程小白,这是我的python学习记录
